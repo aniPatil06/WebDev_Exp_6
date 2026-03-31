@@ -1,0 +1,10 @@
+.main-title {
+  text-align: center;
+  font-size: 32px;
+  margin-top: 20px;
+  color: #fff;
+  text-shadow: 
+    0 0 5px #ffd700,
+    0 0 10px #ffcc00,
+    0 0 20px #ffaa00;
+}
